@@ -60,6 +60,4 @@ def ex_joint(RAPsampleNum, pTlimit):
 
 
 if __name__ == '__main__':
-    RAPsampleNum = 100
-    pTlimit = 2
-    ex_joint(RAPsampleNum, pTlimit)
+    ex_joint(1000, 2)
